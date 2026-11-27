@@ -20,71 +20,69 @@ Execute the necessary commands/batch file for the desired output.
 
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
-```
+
 Create a directory named "my-folder"
-```
 
 <img width="477" height="85" alt="image" src="https://github.com/user-attachments/assets/54d0a27e-3cbc-4308-9523-372b0509be77" />
 
 ## COMMAND AND OUTPUT
-```
+
 Remove the directory "my-folder"
-```
+
 
 <img width="425" height="65" alt="image" src="https://github.com/user-attachments/assets/51ce88ed-d014-4bb7-9f32-aa8c3a80fb57" />
 
 
 ## COMMAND AND OUTPUT
 
-```
+
 Create the file Rose.txt
-```
+
 <img width="455" height="135" alt="image" src="https://github.com/user-attachments/assets/99ca01c3-f146-4b5b-861f-906f644ce7d9" />
 
 
 ## COMMAND AND OUTPUT
 
-```
+
 Create the file hello.txt using echo and redirection
-```
+
 <img width="495" height="100" alt="image" src="https://github.com/user-attachments/assets/1f4c60f3-b597-41a9-9075-cb23c425ab3a" />
 
 
 ## COMMAND AND OUTPUT
-```
+
 Copy the file hello.txt into the file hello1.txt
-```
+
 <img width="425" height="52" alt="image" src="https://github.com/user-attachments/assets/acc0da87-dcde-4f14-ac9b-0b0a85cbf12a" />
 
 ## COMMAND AND OUTPUT
-```
+
 Remove the file hello1.txt
-```
+
 <img width="337" height="52" alt="image" src="https://github.com/user-attachments/assets/690e467f-2f3d-4fab-be6b-cdab62b6b493" />
 
 ## COMMAND AND OUTPUT
-```
+
 List out the file hello1.txt in the current directory
-```
+
 <img width="372" height="110" alt="image" src="https://github.com/user-attachments/assets/e32528e1-72ca-4b3c-997a-3e8bedd27ff2" />
 
 ## COMMAND AND OUTPUT
-```
+
 List out all the associated file extensions
-```
+
 <img width="375" height="646" alt="image" src="https://github.com/user-attachments/assets/f86e9bb1-c08a-4811-8f49-c64e11fcc585" />
 
 ## COMMAND AND OUTPUT
 
-```
+
 Compare the file hello.txt and rose.txt
-```
+
 <img width="666" height="255" alt="image" src="https://github.com/user-attachments/assets/272b9aa0-cdfc-4691-8717-03605c9c308d" />
 
 ## Exercise 2: Advanced Batch Scripting
-```
-Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
-```
+
+
 ```
 @echo off
 set name=John
@@ -92,14 +90,10 @@ echo Hello, %name%!
 pause
 ```
 
-
-
 ## OUTPUT
 
 <img width="446" height="157" alt="image" src="https://github.com/user-attachments/assets/ab8ca8c0-8683-4cba-a390-cac1d0b5518d" />
 
-
-```
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
 Prompt the user to enter a number.
 Calculate the remainder when the number is divided by 2.
@@ -107,7 +101,7 @@ Display whether the number is odd or not.
 Ask the user if they want to check another number.
 Repeat the process if the user enters Y, and exit with a thank-you message if the user enters N.
 Handle invalid inputs for the continuation prompt (Y/N) gracefully.
-```
+
 ```
 @echo off
 :main
@@ -133,9 +127,9 @@ pause
 
 ## OUTPUT
 <img width="628" height="292" alt="image" src="https://github.com/user-attachments/assets/e3a74dd9-8a39-45fe-9b75-e4ba71907e71" />
-```
+
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
-```
+
 ```
 @echo off
 for %%i in (1 2 3 4 5) do (
@@ -146,7 +140,6 @@ pause
 
 ## OUTPUT
 <img width="453" height="250" alt="image" src="https://github.com/user-attachments/assets/f537e6e4-a1a4-4654-8a90-60302fbc044c" />
-```
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
 
@@ -155,7 +148,7 @@ Use the IF EXIST conditional statement.
 Make sure the script works for files located in the same directory as the batch file.
 Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
-```
+
 ```
 @echo off
 if exist sample.txt (
@@ -167,13 +160,13 @@ pause
 ```
 ## OUTPUT
 <img width="667" height="316" alt="image" src="https://github.com/user-attachments/assets/35cf36e6-13fa-4a2b-8cec-c735a6d4b7c7" />
-```
+
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
 Create a File – Creates a file named newfile.txt with the content This is a new file
 Exit – Exits the script with a goodbye message
 The script should repeatedly display the menu until the user chooses to exit. Use goto statements to handle menu navigation.
-```
+
 ```
 @echo off
 :menu
