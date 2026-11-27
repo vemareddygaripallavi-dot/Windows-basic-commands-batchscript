@@ -25,58 +25,63 @@ Execute the necessary commands/batch file for the desired output.
 ```
 Create a directory named "my-folder"
 ```
-<img width="592" height="116" alt="image" src="https://github.com/user-attachments/assets/7632550b-2e39-42c2-9431-8cde91589d32" />
+<img width="737" height="137" alt="image" src="https://github.com/user-attachments/assets/23022d4d-8b04-4867-8a28-2ab09a77f44c" />
+
 
 ## COMMAND AND OUTPUT
 ```
 Remove the directory "my-folder"
 ```
-<img width="587" height="80" alt="image" src="https://github.com/user-attachments/assets/b67d074c-c051-4db4-a45d-4fe2887df0f7" />
+<img width="563" height="102" alt="image" src="https://github.com/user-attachments/assets/b456ea04-4b3a-4a6e-865f-4a6cd8657638" />
+
 
 ## COMMAND AND OUTPUT
 
 ```
 Create the file Rose.txt
-```
-<img width="658" height="172" alt="image" src="https://github.com/user-attachments/assets/2c35eb72-e077-43b3-8cfa-1ced6e08d36c" />
+<img width="730" height="205" alt="image" src="https://github.com/user-attachments/assets/9a46ed8e-e84b-40d1-9f48-f3a33af637bb" />
+
 
 ## COMMAND AND OUTPUT
 
 ```
 Create the file hello.txt using echo and redirection
 ```
-<img width="675" height="137" alt="image" src="https://github.com/user-attachments/assets/1ae23f9a-a52f-44e3-85e0-d033ae6308c9" />
+<img width="797" height="158" alt="image" src="https://github.com/user-attachments/assets/44d7d654-b62e-48f0-bd14-01d3a5057f78" />
+
 
 ## COMMAND AND OUTPUT
 ```
 Copy the file hello.txt into the file hello1.txt
 ```
-<img width="542" height="66" alt="image" src="https://github.com/user-attachments/assets/0d77959f-487e-4fee-b62f-00b33c419137" />
+<img width="621" height="65" alt="image" src="https://github.com/user-attachments/assets/7a478cb6-c6e5-4fef-8000-3d3d3f1a0c3e" />
 
 ## COMMAND AND OUTPUT
 ```
 Remove the file hello1.txt
 ```
-<img width="463" height="75" alt="image" src="https://github.com/user-attachments/assets/666176eb-0085-4e4c-96bd-aab62c55df90" />
+<img width="447" height="85" alt="image" src="https://github.com/user-attachments/assets/eacfcb8b-f179-4c8a-8e4c-470250a4f03b" />
+
 
 ## COMMAND AND OUTPUT
 ```
 List out the file hello1.txt in the current directory
 ```
-<img width="570" height="145" alt="image" src="https://github.com/user-attachments/assets/012b254d-eb5c-4d03-af30-aff367456c57" />
+<img width="517" height="157" alt="image" src="https://github.com/user-attachments/assets/5d6c7258-caf2-4044-a3c6-9fff4f1bf9cb" />
 
 ## COMMAND AND OUTPUT
 ```
 List out all the associated file extensions
 ```
-<img width="807" height="905" alt="image" src="https://github.com/user-attachments/assets/b4c5e69b-ffc2-48ab-89bc-98e927f90496" />
+<img width="356" height="582" alt="image" src="https://github.com/user-attachments/assets/c2f2b5ba-2619-4902-a225-ca172c2cd634" />
 
 ## COMMAND AND OUTPUT
 
 ```
 Compare the file hello.txt and rose.txt
 ```
-<img width="617" height="247" alt="image" src="https://github.com/user-attachments/assets/1b68aee0-a230-41b1-b363-7d5716ca2c3d" />
+<img width="497" height="195" alt="image" src="https://github.com/user-attachments/assets/6834194d-d54d-420a-9ae9-1ba41cd663fe" />
+
 
 
 
@@ -94,7 +99,8 @@ pause
 
 ## OUTPUT
 
-<img width="467" height="156" alt="image" src="https://github.com/user-attachments/assets/7d96775a-d163-4799-9ec5-b6282e1b126a" />
+<img width="450" height="158" alt="image" src="https://github.com/user-attachments/assets/4080bab5-16a6-4091-92d3-d3d5c0a24860" />
+
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -128,7 +134,8 @@ pause
 ```
 
 ## OUTPUT
-<img width="737" height="281" alt="image" src="https://github.com/user-attachments/assets/60e89f6a-8ea0-4acf-b439-5ad73a03bba5" />
+<img width="451" height="190" alt="image" src="https://github.com/user-attachments/assets/9f47a140-6afe-4ed7-9bda-26d50bd50364" />
+
 
 
 
@@ -146,8 +153,9 @@ pause
 
 ## OUTPUT
 
+<img width="411" height="242" alt="image" src="https://github.com/user-attachments/assets/ea80cd34-7a2d-478d-9ea1-621a6adfeb96" />
 
-<img width="495" height="240" alt="image" src="https://github.com/user-attachments/assets/c30ca40f-5a5c-4055-a175-20dc55c0267d" />
+
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
@@ -167,8 +175,7 @@ if exist sample.txt (
 pause
 ```
 ## OUTPUT
-
-<img width="672" height="290" alt="image" src="https://github.com/user-attachments/assets/3c0ecef0-5872-4465-a467-b4e8ddada2e0" />
+<img width="446" height="207" alt="image" src="https://github.com/user-attachments/assets/2aa7ebda-620a-4b62-99b9-1aca5055c56e" />
 
 
 Write a batch script that displays a simple menu with three options:
@@ -201,8 +208,7 @@ pause
 ```
 
 ## OUTPUT
-
-<img width="695" height="478" alt="image" src="https://github.com/user-attachments/assets/20a24690-ce4e-4213-9ef3-491ecbc7c3b2" />
+<img width="347" height="355" alt="image" src="https://github.com/user-attachments/assets/9ec06a22-5ba8-4ced-9e7b-04fe2a31ff19" />
 
 
 # RESULT:
