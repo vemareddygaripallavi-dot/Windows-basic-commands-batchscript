@@ -62,8 +62,6 @@ Remove the file hello1.txt
 ```
 <img width="337" height="52" alt="image" src="https://github.com/user-attachments/assets/690e467f-2f3d-4fab-be6b-cdab62b6b493" />
 
-
-
 ## COMMAND AND OUTPUT
 ```
 List out the file hello1.txt in the current directory
@@ -82,7 +80,6 @@ List out all the associated file extensions
 Compare the file hello.txt and rose.txt
 ```
 <img width="666" height="255" alt="image" src="https://github.com/user-attachments/assets/272b9aa0-cdfc-4691-8717-03605c9c308d" />
-
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
@@ -146,8 +143,6 @@ for %%i in (1 2 3 4 5) do (
 pause
 ```
 
-
-
 ## OUTPUT
 <img width="453" height="250" alt="image" src="https://github.com/user-attachments/assets/f537e6e4-a1a4-4654-8a90-60302fbc044c" />
 
@@ -201,9 +196,7 @@ pause
 ```
 
 ## OUTPUT
-
 <img width="457" height="512" alt="image" src="https://github.com/user-attachments/assets/f6d249d4-4bf4-4ac6-93e8-14da1847d136" />
-
 
 # RESULT:
 The commands/batch files are executed successfully.
