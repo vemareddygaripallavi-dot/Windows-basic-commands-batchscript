@@ -25,21 +25,22 @@ Execute the necessary commands/batch file for the desired output.
 ```
 Create a directory named "my-folder"
 ```
-<img width="737" height="137" alt="image" src="https://github.com/user-attachments/assets/23022d4d-8b04-4867-8a28-2ab09a77f44c" />
 
+<img width="477" height="85" alt="image" src="https://github.com/user-attachments/assets/54d0a27e-3cbc-4308-9523-372b0509be77" />
 
 ## COMMAND AND OUTPUT
 ```
 Remove the directory "my-folder"
 ```
-<img width="563" height="102" alt="image" src="https://github.com/user-attachments/assets/b456ea04-4b3a-4a6e-865f-4a6cd8657638" />
+
+<img width="425" height="65" alt="image" src="https://github.com/user-attachments/assets/51ce88ed-d014-4bb7-9f32-aa8c3a80fb57" />
 
 
 ## COMMAND AND OUTPUT
 
 ```
 Create the file Rose.txt
-<img width="730" height="205" alt="image" src="https://github.com/user-attachments/assets/9a46ed8e-e84b-40d1-9f48-f3a33af637bb" />
+<img width="455" height="135" alt="image" src="https://github.com/user-attachments/assets/99ca01c3-f146-4b5b-861f-906f644ce7d9" />
 
 
 ## COMMAND AND OUTPUT
@@ -47,42 +48,41 @@ Create the file Rose.txt
 ```
 Create the file hello.txt using echo and redirection
 ```
-<img width="797" height="158" alt="image" src="https://github.com/user-attachments/assets/44d7d654-b62e-48f0-bd14-01d3a5057f78" />
+<img width="495" height="100" alt="image" src="https://github.com/user-attachments/assets/1f4c60f3-b597-41a9-9075-cb23c425ab3a" />
 
 
 ## COMMAND AND OUTPUT
 ```
 Copy the file hello.txt into the file hello1.txt
 ```
-<img width="621" height="65" alt="image" src="https://github.com/user-attachments/assets/7a478cb6-c6e5-4fef-8000-3d3d3f1a0c3e" />
+<img width="425" height="52" alt="image" src="https://github.com/user-attachments/assets/acc0da87-dcde-4f14-ac9b-0b0a85cbf12a" />
 
 ## COMMAND AND OUTPUT
 ```
 Remove the file hello1.txt
 ```
-<img width="447" height="85" alt="image" src="https://github.com/user-attachments/assets/eacfcb8b-f179-4c8a-8e4c-470250a4f03b" />
+<img width="337" height="52" alt="image" src="https://github.com/user-attachments/assets/690e467f-2f3d-4fab-be6b-cdab62b6b493" />
+
 
 
 ## COMMAND AND OUTPUT
 ```
 List out the file hello1.txt in the current directory
 ```
-<img width="517" height="157" alt="image" src="https://github.com/user-attachments/assets/5d6c7258-caf2-4044-a3c6-9fff4f1bf9cb" />
+<img width="372" height="110" alt="image" src="https://github.com/user-attachments/assets/e32528e1-72ca-4b3c-997a-3e8bedd27ff2" />
 
 ## COMMAND AND OUTPUT
 ```
 List out all the associated file extensions
 ```
-<img width="356" height="582" alt="image" src="https://github.com/user-attachments/assets/c2f2b5ba-2619-4902-a225-ca172c2cd634" />
+<img width="375" height="646" alt="image" src="https://github.com/user-attachments/assets/f86e9bb1-c08a-4811-8f49-c64e11fcc585" />
 
 ## COMMAND AND OUTPUT
 
 ```
 Compare the file hello.txt and rose.txt
 ```
-<img width="497" height="195" alt="image" src="https://github.com/user-attachments/assets/6834194d-d54d-420a-9ae9-1ba41cd663fe" />
-
-
+<img width="666" height="255" alt="image" src="https://github.com/user-attachments/assets/272b9aa0-cdfc-4691-8717-03605c9c308d" />
 
 
 ## Exercise 2: Advanced Batch Scripting
@@ -99,7 +99,7 @@ pause
 
 ## OUTPUT
 
-<img width="450" height="158" alt="image" src="https://github.com/user-attachments/assets/4080bab5-16a6-4091-92d3-d3d5c0a24860" />
+<img width="446" height="157" alt="image" src="https://github.com/user-attachments/assets/ab8ca8c0-8683-4cba-a390-cac1d0b5518d" />
 
 
 
@@ -134,9 +134,7 @@ pause
 ```
 
 ## OUTPUT
-<img width="451" height="190" alt="image" src="https://github.com/user-attachments/assets/9f47a140-6afe-4ed7-9bda-26d50bd50364" />
-
-
+<img width="628" height="292" alt="image" src="https://github.com/user-attachments/assets/e3a74dd9-8a39-45fe-9b75-e4ba71907e71" />
 
 
 
@@ -152,8 +150,7 @@ pause
 
 
 ## OUTPUT
-
-<img width="411" height="242" alt="image" src="https://github.com/user-attachments/assets/ea80cd34-7a2d-478d-9ea1-621a6adfeb96" />
+<img width="453" height="250" alt="image" src="https://github.com/user-attachments/assets/f537e6e4-a1a4-4654-8a90-60302fbc044c" />
 
 
 
@@ -175,7 +172,8 @@ if exist sample.txt (
 pause
 ```
 ## OUTPUT
-<img width="446" height="207" alt="image" src="https://github.com/user-attachments/assets/2aa7ebda-620a-4b62-99b9-1aca5055c56e" />
+<img width="667" height="316" alt="image" src="https://github.com/user-attachments/assets/35cf36e6-13fa-4a2b-8cec-c735a6d4b7c7" />
+
 
 
 Write a batch script that displays a simple menu with three options:
@@ -208,7 +206,8 @@ pause
 ```
 
 ## OUTPUT
-<img width="347" height="355" alt="image" src="https://github.com/user-attachments/assets/9ec06a22-5ba8-4ced-9e7b-04fe2a31ff19" />
+
+<img width="457" height="512" alt="image" src="https://github.com/user-attachments/assets/f6d249d4-4bf4-4ac6-93e8-14da1847d136" />
 
 
 # RESULT:
