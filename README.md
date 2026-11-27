@@ -82,8 +82,9 @@ Compare the file hello.txt and rose.txt
 <img width="666" height="255" alt="image" src="https://github.com/user-attachments/assets/272b9aa0-cdfc-4691-8717-03605c9c308d" />
 
 ## Exercise 2: Advanced Batch Scripting
+```
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
-
+```
 ```
 @echo off
 set name=John
