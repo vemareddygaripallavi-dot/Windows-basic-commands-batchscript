@@ -98,7 +98,7 @@ pause
 <img width="446" height="157" alt="image" src="https://github.com/user-attachments/assets/ab8ca8c0-8683-4cba-a390-cac1d0b5518d" />
 
 
-
+```
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
 Prompt the user to enter a number.
 Calculate the remainder when the number is divided by 2.
@@ -106,6 +106,7 @@ Display whether the number is odd or not.
 Ask the user if they want to check another number.
 Repeat the process if the user enters Y, and exit with a thank-you message if the user enters N.
 Handle invalid inputs for the continuation prompt (Y/N) gracefully.
+```
 ```
 @echo off
 :main
@@ -131,10 +132,9 @@ pause
 
 ## OUTPUT
 <img width="628" height="292" alt="image" src="https://github.com/user-attachments/assets/e3a74dd9-8a39-45fe-9b75-e4ba71907e71" />
-
-
-
+```
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
+```
 ```
 @echo off
 for %%i in (1 2 3 4 5) do (
@@ -145,7 +145,7 @@ pause
 
 ## OUTPUT
 <img width="453" height="250" alt="image" src="https://github.com/user-attachments/assets/f537e6e4-a1a4-4654-8a90-60302fbc044c" />
-
+```
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
 
@@ -154,6 +154,7 @@ Use the IF EXIST conditional statement.
 Make sure the script works for files located in the same directory as the batch file.
 Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
+```
 ```
 @echo off
 if exist sample.txt (
@@ -165,12 +166,13 @@ pause
 ```
 ## OUTPUT
 <img width="667" height="316" alt="image" src="https://github.com/user-attachments/assets/35cf36e6-13fa-4a2b-8cec-c735a6d4b7c7" />
-
+```
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
 Create a File – Creates a file named newfile.txt with the content This is a new file
 Exit – Exits the script with a goodbye message
 The script should repeatedly display the menu until the user chooses to exit. Use goto statements to handle menu navigation.
+```
 ```
 @echo off
 :menu
