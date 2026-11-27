@@ -18,8 +18,6 @@ Write the Windows commands / batch file . Save each script in a file with a .bat
 Execute the necessary commands/batch file for the desired output. 
 
 
-
-
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 ```
@@ -40,6 +38,7 @@ Remove the directory "my-folder"
 
 ```
 Create the file Rose.txt
+```
 <img width="455" height="135" alt="image" src="https://github.com/user-attachments/assets/99ca01c3-f146-4b5b-861f-906f644ce7d9" />
 
 
@@ -153,8 +152,6 @@ pause
 <img width="453" height="250" alt="image" src="https://github.com/user-attachments/assets/f537e6e4-a1a4-4654-8a90-60302fbc044c" />
 
 
-
-
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
 
 Instructions:
@@ -173,8 +170,6 @@ pause
 ```
 ## OUTPUT
 <img width="667" height="316" alt="image" src="https://github.com/user-attachments/assets/35cf36e6-13fa-4a2b-8cec-c735a6d4b7c7" />
-
-
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
